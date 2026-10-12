@@ -1,0 +1,1 @@
+{"accuracy": 90.5, "n_train": 800, "n_test": 200, "feature_importances": {"Gender": 0.0061, "Age": 0.511, "Annual Salary": 0.4829}}

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+flask_out.log
+flask_err.log
+huggingface_deploy/
+export_model_to_json.py
